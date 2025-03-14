@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<JScopeProject>
+    <FileVersion major="1" minor="1" />
+    <Project>
+        <Configuration>
+            <JLink>
+                <Options Connection="1" IsRTTSession="0" IsRTTWithTimeStamp="1" SamplingPeriod="20000" SerialNo="0" JTAG_IRPre="-1" JTAG_DRPre="-1" IP="" TargetDevice="STM32F427II" TargetInterface="SWD" InterfaceSpeed="4000" />
+            </JLink>
+            <ElfFile Name="D:\PROJECT\Competition\Ì½Ë÷Õß-ÐÂ°å\Explorer(4)\USER\Objects\GUARD.axf" />
+            <DataFile Name="" />
+            <RawFile Name="" />
+            <Scope>
+                <Options TimeResolutionUs="1000000" />
+            </Scope>
+        </Configuration>
+        <Windows>
+            <Graph Show="1" />
+            <Watch Show="1" />
+        </Windows>
+        <SelectedSymbols>
+            <Symbol>
+                <Options Name="Real_Speed" Address="0x20000030" Type="short" TypeID="11" Size="2" GraphColorRed="255" GraphColorGreen="215" GraphColorBlue="0" YMinSampled="0" YMaxSampled="9385" YAvgSampled="5190" Offset="4" ShowInGraph="1" ACCoupling="0" YOffset="400" IsAutoConfig="1" YResolution="5000" MaxValue="16850" File="..\HARDWORK\can.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="Target_Speed" Address="0x20000032" Type="short" TypeID="11" Size="2" GraphColorRed="0" GraphColorGreen="255" GraphColorBlue="0" YMinSampled="-2585" YMaxSampled="5000" YAvgSampled="4851" Offset="6" ShowInGraph="1" ACCoupling="0" YOffset="650" IsAutoConfig="1" YResolution="5000" MaxValue="10000" File="..\HARDWORK\can.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="Real_Speed" Address="0x20000034" Type="short" TypeID="11" Size="2" GraphColorRed="102" GraphColorGreen="102" GraphColorBlue="178" YMinSampled="-9679" YMaxSampled="0" YAvgSampled="-5604" Offset="8" ShowInGraph="1" ACCoupling="0" YOffset="400" IsAutoConfig="1" YResolution="5000" MaxValue="16850" File="..\HARDWORK\can.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="Target_Speed" Address="0x20000036" Type="short" TypeID="11" Size="2" GraphColorRed="160" GraphColorGreen="32" GraphColorBlue="240" YMinSampled="-5000" YMaxSampled="3013" YAvgSampled="-4842" Offset="10" ShowInGraph="1" ACCoupling="0" YOffset="140" IsAutoConfig="1" YResolution="5000" MaxValue="10000" File="..\HARDWORK\can.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+        </SelectedSymbols>
+    </Project>
+</JScopeProject>
